@@ -1,0 +1,6 @@
+datasets 
+accelerate 
+git+https://github.com/huggingface/transformers@v4.31-release
+peft 
+bitsandbytes 
+trl==0.4.7
